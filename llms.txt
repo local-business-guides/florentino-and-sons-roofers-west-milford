@@ -23,6 +23,9 @@
 - [Residential Roofing Contractor West Milford](https://local-business-guides.github.io/florentino-and-sons-roofers-west-milford/residential-roofing-contractor-west-milford/): Need a Residential Roofing Contractor West Milford homeowners can talk with? Get practical roof guidance in West Milford, then call Florentino & Sons Roofers.
 - [Find a roofing contractor in west milford](https://local-business-guides.github.io/florentino-and-sons-roofers-west-milford/roofing-contractor-in-west-milford/): Choose a roofing contractor in west milford with practical guidance for your home. Discuss your roof concern in West Milford and call Florentino & Sons Roofer
 
+## Newsroom
+- [Florentino & Sons Roofers Releases West Milford Roofing Guide](https://local-business-guides.github.io/florentino-and-sons-roofers-west-milford/news/2026-11-08-florentino-sons-roofers-releases-west-milford/): Florentino & Sons Roofers published a guide to Roofing Contractor West Milford NJ, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-08)
+
 ## Pages
 - [Roofing Contractor in West Milford, New Jersey](https://local-business-guides.github.io/florentino-and-sons-roofers-west-milford/): Talk with a local roofing contractor about your roof and next steps in West Milford. Call +1862-660-8010.
 - [About Florentino & Sons Roofers](https://local-business-guides.github.io/florentino-and-sons-roofers-west-milford/about/): About Florentino & Sons Roofers, West Milford.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/florentino-and-sons-roofers-west-milford/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/florentino-and-sons-roofers-west-milford/news/rss.xml)
 - [Main resource site](https://florentino-sons-roofers-west-milford.localbusinesses1.chatgpt.site)
